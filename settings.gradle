@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Seeni_Ma'
